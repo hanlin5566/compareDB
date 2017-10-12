@@ -1,0 +1,7 @@
+srcUrl=jdbc:mysql://192.168.1.100:3306/common
+srcUser=edudb
+srcPasswd=edudbpass22
+
+destUrl=jdbc:mysql://115.159.4.94:3306/common
+destUser=edudb
+destPasswd=edudbpass22
